@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Gui 😁
+## Bem-vindo(a) ao perfil do Guih 😁
 
  <div>
    <a href="https://github.com/R1basx">
@@ -17,6 +17,6 @@
 ### Algumas das minhas redes!
  
 <div> 
-  <a href="https://www.instagram.com/vixnxz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/oguihz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "jgvr2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
