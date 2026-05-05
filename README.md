@@ -1,22 +1,39 @@
-## Bem-vindo(a) ao perfil do Guih 😁
+<h1 align='center'>
+  Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> I'm Guih 👨‍💻 
+</h1>
+<p align='center'>
+</p>
 
- <div>
-   <a href="https://github.com/R1basx">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R1basx&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1basx&layout=compact&langs_count=6&theme=synthwave"/>
+<br />
+
+
+
+<div align="center"> 
+  <a align="center" href="https://www.instagram.com/oguihz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a align="center" href = "mailto:jgvr2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+
+
+
+ 
+## :rocket: Languages:
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css" />
+  </a>
 </div>
- 
-<br>
- 
-### Algumas das minhas redes!
- 
-<div> 
-  <a href="https://www.instagram.com/oguihz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "jgvr2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  
+##
+
+
+## ⚡ Github Stats 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuiCPessoa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiCPessoa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=blueberry&hide_border=true&order=2" height="170" alt="languages graph"  />
 </div>
+
+###
