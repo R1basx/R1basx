@@ -1,9 +1,9 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0000,100:B71C1C&height=220&section=header&text=Jo%C3%A3o%20Viana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ADS%20%7C%20Software%20%7C%20Rob%C3%B3tica&descAlignY=56&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0000,100:B71C1C&height=220&section=header&text=Jo%C3%A3o%20Viana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ADS%20%7C%20Software%20%7C%20Rob%C3%B3tica&descAlignY=56&descSize=20" width="100%" alt="João Viana — ADS, software e robótica" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E63946&center=true&vCenter=true&width=750&lines=Estudante+de+ADS+na+CESAR+School;Programando+em+Python%2C+Java+e+C;Garagino+%7C+RoboCup+Soccer+Simulator;Explorando+software%2C+automa%C3%A7%C3%A3o+e+rob%C3%B3tica;Do+c%C3%B3digo+ao+prot%C3%B3tipo!" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E63946&center=true&vCenter=true&width=750&lines=Estudante+de+ADS+na+CESAR+School;Construindo+interfaces+com+HTML%2C+CSS+e+JavaScript;Estudando+Python%2C+Java+e+C;Garagino+%7C+RoboCup+Soccer+Simulator;Software%2C+automa%C3%A7%C3%A3o+e+rob%C3%B3tica" alt="Texto animado: ADS, programação, automação e robótica" />
 </a>
 
 <br>
@@ -23,32 +23,16 @@
 
 ## Sobre mim
 
-```python
-class Desenvolvedor:
-    def __init__(self):
-        self.nome = "João Viana"
-        self.formacao = "ADS — CESAR School"
-        self.conclusao_prevista = 2028
-        self.foco = [
-            "Desenvolvimento de software",
-            "Automação",
-            "Robótica",
-            "Aprendizado contínuo"
-        ]
-        self.linguagens = ["Python", "Java", "C"]
+Sou estudante de **Análise e Desenvolvimento de Sistemas na CESAR School**, com conclusão prevista para 2028. Gosto de aprender construindo: desenvolver interfaces, automatizar tarefas, testar ideias e entender como software e hardware podem trabalhar juntos.
 
-    def objetivo(self):
-        return "Transformar ideias em projetos reais."
-```
+Atualmente, meus interesses estão principalmente em **desenvolvimento de software, automação e robótica**. Também participo de atividades no Garagino relacionadas ao **RoboCup Soccer Simulator (RCSS)**, uma simulação 2D de futebol em que agentes programados tomam decisões durante as partidas.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na CESAR School**, interessado em entender como a tecnologia funciona na prática e transformar o que aprendo em projetos.
+- **Formação:** Análise e Desenvolvimento de Sistemas — CESAR School.
+- **Tecnologias que já usei em projetos/estudos:** HTML, CSS, JavaScript, Python, Java e C.
+- **Outras ferramentas e ambientes:** Linux, Git/GitHub, Arduino e GameMaker.
+- **Fora da programação:** Fórmula 1, jogos, animes, filmes e séries.
 
-Gosto de programação, robótica e desenvolvimento de soluções que resolvam problemas reais. Atualmente, participo de atividades ligadas à simulação de futebol robótico no **Garagino**, enquanto continuo explorando novas ferramentas, linguagens e possibilidades.
-
-- **Atualmente:** aprimorando minhas habilidades em programação e desenvolvimento de software.
-- **Na prática:** trabalhando com simulação de futebol robótico e explorando projetos de automação.
-- **Curto conversar sobre:** tecnologia, robótica, programação, jogos e automobilismo.
-- **Fora do código:** F1, games, animes e aquela busca interminável por aprender alguma coisa nova.
+> Estou em formação e sigo ampliando minhas habilidades na prática, projeto por projeto.
 
 <br>
 
@@ -56,69 +40,73 @@ Gosto de programação, robótica e desenvolvimento de soluções que resolvam p
 
 <div align="center">
 
-### Linguagens de programação
+### Desenvolvimento web
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript" />
 
+<br><br>
+
+### Programação e estudos
 <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" alt="Python, Java e C" />
 
 <br><br>
 
-### Sistemas e hardware
+### Ferramentas e hardware
+<img src="https://skillicons.dev/icons?i=git,github,linux,arduino&theme=dark" alt="Git, GitHub, Linux e Arduino" />
 
-<img src="https://skillicons.dev/icons?i=linux,arduino&theme=dark" alt="Linux e Arduino" />
+<br>
 
-<br><br>
-
-### Áreas de interesse
-
-![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento%20de%20Software-B71C1C?style=for-the-badge&logo=github&logoColor=white)
-![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-8B0000?style=for-the-badge&logo=python&logoColor=white)
-![Robótica](https://img.shields.io/badge/Rob%C3%B3tica-E63946?style=for-the-badge&logo=arduino&logoColor=white)
-![Simulação](https://img.shields.io/badge/Simula%C3%A7%C3%A3o%20de%20Futebol-600000?style=for-the-badge&logo=gamedeveloper&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
+![RoboCup Soccer Simulator](https://img.shields.io/badge/RoboCup%20Soccer%20Simulator-B71C1C?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 </div>
 
 <br>
 
-## Projetos e experiências
+## Projetos públicos
 
 <table>
   <tr>
-    <td width="45">
-      <img src="https://img.shields.io/badge/RCSS-B71C1C?style=flat-square" alt="RCSS" />
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/R1basx/R1basx.github.io">Feira Viva</a></h3>
+      <p>Protótipo de uma plataforma para aproximar pequenos produtores rurais de compradores e instituições. Projeto em equipe com foco em uma solução digital para um problema real.</p>
+      <p><strong>Tecnologias:</strong> HTML, CSS e SVG.</p>
+      <p><a href="https://github.com/R1basx/R1basx.github.io">Ver repositório →</a></p>
     </td>
-    <td>
-      <strong>RoboCup Soccer Simulator — Garagino</strong><br>
-      Participação em atividades de desenvolvimento de agentes para uma simulação 2D de futebol robótico. Um espaço para experimentar lógica, programação e tomada de decisões em equipe.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/PY-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    </td>
-    <td>
-      <strong>Monitor de Vagas — Prova Prática CNH</strong><br>
-      Projeto de automação em Python para consultar periodicamente a disponibilidade de vagas para prova prática de direção no Detran-PE, facilitando a identificação de novas oportunidades.
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/R1basx/projeto-gta">Landing Page — GTA V</a></h3>
+      <p>Página inspirada na divulgação de GTA V e GTA Online, com seções de apresentação, imagens, links e seletor interativo de plataformas.</p>
+      <p><strong>Tecnologias:</strong> HTML, CSS e JavaScript.</p>
+      <p><a href="https://github.com/R1basx/projeto-gta">Ver repositório →</a></p>
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/GAME-E63946?style=flat-square" alt="Game development" />
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/R1basx/Projeto-overwatch">Landing Page — Overwatch 2</a></h3>
+      <p>Página de apresentação de Overwatch 2 com identidade visual própria, layout adaptável e seletor interativo de plataformas.</p>
+      <p><strong>Tecnologias:</strong> HTML, CSS e JavaScript.</p>
+      <p><a href="https://github.com/R1basx/Projeto-overwatch">Ver repositório →</a></p>
     </td>
-    <td>
-      <strong>Le Monke Game</strong><br>
-      Projeto individual desenvolvido no GameMaker, explorando lógica de programação e desenvolvimento de jogos.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/ARDUINO-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-    </td>
-    <td>
-      <strong>Experimentos com Arduino</strong><br>
-      Práticas com componentes eletrônicos, LEDs, botões e protoboard para aproximar programação e hardware.
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/R1basx/Le-Monke-Game">Le Monke Game</a></h3>
+      <p>Jogo desenvolvido individualmente no GameMaker, explorando lógica de programação e desenvolvimento de jogos.</p>
+      <p><strong>Ferramenta:</strong> GameMaker.</p>
+      <p><a href="https://github.com/R1basx/Le-Monke-Game">Ver repositório →</a></p>
     </td>
   </tr>
 </table>
+
+<br>
+
+## Em andamento e outros projetos
+
+### RoboCup Soccer Simulator — Garagino
+Atividades de programação de agentes para futebol robótico simulado em 2D, trabalhando com lógica de decisão e desenvolvimento em equipe. O repositório correspondente não aparece entre os meus repositórios públicos listados neste perfil.
+
+### Monitor de Vagas — Prova Prática CNH
+Projeto de automação em Python que consulta periodicamente a disponibilidade de vagas para prova prática no Detran-PE. Foi pensado para facilitar a identificação de novas vagas. Não encontrei um repositório público desse projeto no perfil, então ele fica separado dos projetos publicados acima.
+
+### Experimentos com Arduino
+Práticas de programação e eletrônica com LEDs, botões e protoboard, explorando a integração entre código e componentes físicos.
 
 <br>
 
@@ -126,15 +114,12 @@ Gosto de programação, robótica e desenvolvimento de soluções que resolvam p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=R1basx&show_icons=true&theme=transparent&hide_border=true&title_color=E63946&icon_color=E63946&text_color=FFFFFF&rank_icon=github" alt="Estatísticas do GitHub" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1basx&layout=compact&theme=transparent&hide_border=true&title_color=E63946&text_color=FFFFFF" alt="Linguagens mais utilizadas" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=R1basx&theme=dark&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946" alt="Sequência de contribuições" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=R1basx&show_icons=true&theme=transparent&hide_border=true&title_color=E63946&icon_color=E63946&text_color=FFFFFF" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1basx&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=E63946&text_color=FFFFFF" alt="Linguagens mais detectadas nos repositórios" />
 
 </div>
+
+<p align="center"><sub>As estatísticas de linguagens são calculadas pelos arquivos reconhecidos nos repositórios públicos; elas não representam necessariamente todas as tecnologias que estudo ou utilizo.</sub></p>
 
 <br>
 
@@ -142,21 +127,19 @@ Gosto de programação, robótica e desenvolvimento de soluções que resolvam p
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/F1-Apaixonado%20por%20automobilismo-E10600?style=for-the-badge&logo=formula1&logoColor=white" alt="F1" />
-<img src="https://img.shields.io/badge/Red%20Bull%20Racing-Motorsport-3671C6?style=for-the-badge&logo=redbullracing&logoColor=white" alt="Red Bull Racing" />
-<img src="https://img.shields.io/badge/Tecnologia-Sempre%20explorando-B71C1C?style=for-the-badge&logo=github&logoColor=white" alt="Tecnologia" />
+![F1](https://img.shields.io/badge/F1-Apaixonado%20por%20automobilismo-E10600?style=for-the-badge&logo=formula1&logoColor=white)
+![Red Bull Racing](https://img.shields.io/badge/Red%20Bull%20Racing-Motorsport-3671C6?style=for-the-badge&logo=redbullracing&logoColor=white)
+![Tecnologia](https://img.shields.io/badge/Tecnologia-Sempre%20explorando-B71C1C?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-Acredito que aprender programação vai muito além de escrever código: é experimentar, errar, descobrir outras formas de resolver um problema e construir coisas que antes só existiam como ideias.
-
-Por aqui, estou construindo minha trajetória, um projeto de cada vez.
+Acredito que aprender programação vai além de escrever código: é experimentar, errar, descobrir outras formas de resolver um problema e construir coisas que antes só existiam como ideias.
 
 <div align="center">
 
-### Vamos construir alguma coisa?
+### Vamos trocar ideias sobre tecnologia e projetos?
 
-**Aberto a aprender, colaborar e trocar ideias sobre tecnologia e projetos.**
+**Sempre buscando aprender, colaborar e transformar ideias em projetos reais.**
 
 <br>
 
@@ -164,6 +147,6 @@ Por aqui, estou construindo minha trajetória, um projeto de cada vez.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B71C1C,100:3A0000&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B71C1C,100:3A0000&height=100&section=footer" width="100%" alt="Rodapé vermelho" />
 
 </div>
