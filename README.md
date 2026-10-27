@@ -16,12 +16,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=R1basx&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=E63946&style=flat" alt="Visualizações do perfil" />
-
-</div>
-
-<br>
-
 ## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas na CESAR School**, com conclusão prevista para 2028. Gosto de aprender construindo: desenvolver interfaces, automatizar tarefas, testar ideias e entender como software e hardware podem trabalhar juntos.
