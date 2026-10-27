@@ -13,7 +13,8 @@
 </a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-viana-357977400/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=R1basx&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=E63946&style=flat" alt="Visualizações do perfil" />
 
