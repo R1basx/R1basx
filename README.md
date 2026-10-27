@@ -8,8 +8,8 @@
 
 <br>
 
-<a href="https://github.com/R1basx">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://www.instagram.com/oguihz/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-viana-357977400/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -55,58 +55,11 @@ Atualmente, meus interesses estão principalmente em **desenvolvimento de softwa
 
 <br>
 
+### Jogos
 ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 ![RoboCup Soccer Simulator](https://img.shields.io/badge/RoboCup%20Soccer%20Simulator-B71C1C?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 </div>
-
-<br>
-
-## Projetos públicos
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/R1basx/R1basx.github.io">Feira Viva</a></h3>
-      <p>Protótipo de uma plataforma para aproximar pequenos produtores rurais de compradores e instituições. Projeto em equipe com foco em uma solução digital para um problema real.</p>
-      <p><strong>Tecnologias:</strong> HTML, CSS e SVG.</p>
-      <p><a href="https://github.com/R1basx/R1basx.github.io">Ver repositório →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/R1basx/projeto-gta">Landing Page — GTA V</a></h3>
-      <p>Página inspirada na divulgação de GTA V e GTA Online, com seções de apresentação, imagens, links e seletor interativo de plataformas.</p>
-      <p><strong>Tecnologias:</strong> HTML, CSS e JavaScript.</p>
-      <p><a href="https://github.com/R1basx/projeto-gta">Ver repositório →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/R1basx/Projeto-overwatch">Landing Page — Overwatch 2</a></h3>
-      <p>Página de apresentação de Overwatch 2 com identidade visual própria, layout adaptável e seletor interativo de plataformas.</p>
-      <p><strong>Tecnologias:</strong> HTML, CSS e JavaScript.</p>
-      <p><a href="https://github.com/R1basx/Projeto-overwatch">Ver repositório →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/R1basx/Le-Monke-Game">Le Monke Game</a></h3>
-      <p>Jogo desenvolvido individualmente no GameMaker, explorando lógica de programação e desenvolvimento de jogos.</p>
-      <p><strong>Ferramenta:</strong> GameMaker.</p>
-      <p><a href="https://github.com/R1basx/Le-Monke-Game">Ver repositório →</a></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## Em andamento e outros projetos
-
-### RoboCup Soccer Simulator — Garagino
-Atividades de programação de agentes para futebol robótico simulado em 2D, trabalhando com lógica de decisão e desenvolvimento em equipe. O repositório correspondente não aparece entre os meus repositórios públicos listados neste perfil.
-
-### Monitor de Vagas — Prova Prática CNH
-Projeto de automação em Python que consulta periodicamente a disponibilidade de vagas para prova prática no Detran-PE. Foi pensado para facilitar a identificação de novas vagas. Não encontrei um repositório público desse projeto no perfil, então ele fica separado dos projetos publicados acima.
-
-### Experimentos com Arduino
-Práticas de programação e eletrônica com LEDs, botões e protoboard, explorando a integração entre código e componentes físicos.
 
 <br>
 
