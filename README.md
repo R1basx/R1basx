@@ -62,8 +62,12 @@ Atualmente, meus interesses estão principalmente em **desenvolvimento de softwa
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=R1basx&show_icons=true&theme=transparent&hide_border=true&title_color=E63946&icon_color=E63946&text_color=FFFFFF" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1basx&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=E63946&text_color=FFFFFF" alt="Linguagens mais detectadas nos repositórios" />
+<div align="center">
+
+<img height="165" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
+<img height="165" src="./profile/top-langs.svg" alt="Linguagens mais detectadas nos repositórios" />
+
+</div>
 
 </div>
 
